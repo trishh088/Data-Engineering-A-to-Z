@@ -67,3 +67,5 @@ distributed_song_log.map(lambda song: song.lower()).collect()
 distributed_song_log.map(lambda x: x.lower()).collect()
 ```
 
+# Reference:
+Udacity
